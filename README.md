@@ -127,6 +127,9 @@ STEP 12: Create the drawing (ISO)
    
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/08dbf576-b405-4d28-9ce6-aeca50148bc6" />
 
+<img width="1045" height="769" alt="{5134C4E7-6812-46CA-8CE7-AD9F6264F4D3}" src="https://github.com/user-attachments/assets/c74ddb57-2418-4365-9404-384183b03fe9" />
+
+
 
 ## OUTPUT
 
