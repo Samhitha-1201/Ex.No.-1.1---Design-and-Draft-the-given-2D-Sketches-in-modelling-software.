@@ -133,7 +133,7 @@ STEP 12: Create the drawing (ISO)
 
 ## OUTPUT
 
-<img width="700" height="602" alt="Screenshot 2026-10-11 200246" src="https://github.com/user-attachments/assets/b3c050fd-14f7-4627-823a-5b877bac4fe1" />
+<img width="1017" height="717" alt="{E60D4C44-6A0A-4B38-A71F-58D467838F34}" src="https://github.com/user-attachments/assets/a2e364ee-f7e1-45e6-b2bb-fce1b5e01084" />
 
 
 ## RESULT
